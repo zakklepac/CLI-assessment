@@ -1,18 +1,19 @@
 # LI-assessment
-Create, rename and delete files and folders: 
-mkdir (folders), touch (files), mv [file] [new filename], rm -r (directories), rm (files)
+Why do we use a CLI?: It's important for developers to understand how their projects interact with the computer as well as the user
 
-Copy files and folders: 
-cp
+What is the difference between shell and terminal?: a terminal is the environment for inputs and outputs of text. the shell interprets the command line (bash)
 
-Read and write files: 
-$ cat, $ less, $ history
+What are flags?: they help specify command line tools
 
-List directory contents:
-ls
+What are file permissions and why do they exist?: they tell users what files and directories they are able to read, write, or execute.
 
-Navigate using relative and home-directory-relative paths:
-/ ~ .. or relative/path
+Explain and be able to use the following shell commands:
 
-Use tab completion and history navigation to speed up development:
-This saves time and more succintly shows what may/may not be in a directory
+- `cd`
+- `touch`
+- `ls`
+- `pwd`
+- `mkdir`
+- `rm`
+- `sudo`
+- `cat`
