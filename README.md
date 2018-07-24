@@ -9,11 +9,11 @@ What are file permissions and why do they exist?: they tell users what files and
 
 Explain and be able to use the following shell commands:
 
-- `cd`
-- `touch`
-- `ls`
-- `pwd`
-- `mkdir`
-- `rm`
-- `sudo`
-- `cat`
+- `cd` - change from your current directory
+- `touch` - create a file
+- `ls` - list all directories and files in your current directory
+- `pwd` - returns your current absolute path
+- `mkdir` - make a new directory
+- `rm` - remove a file or directory
+- `sudo` - admin user? 
+- `cat` - read a small text file
